@@ -44,7 +44,7 @@ body::before {
 
 @media screen and (max-width: 960px) {
   body::before {
-    background-image: url(https://kasuie.cc/api/img/bg?type=mobile&size=regular); /* 竖屏背景图片，可自行替换 */
+    background-image: url(https://img.xi.mk/i/2024/08/03/66ade9c3b4c90.png); /* 竖屏背景图片，可自行替换 */
   }
 }
 
